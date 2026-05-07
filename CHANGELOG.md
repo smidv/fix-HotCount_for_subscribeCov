@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.2](https://github.com/bacnet-js/client/compare/v3.3.1...v3.3.2) (2026-05-07)
+
+
+### Bug Fixes
+
+* uses appropriate typings for property read/write request payloads ([#78](https://github.com/bacnet-js/client/issues/78)) ([43fbd92](https://github.com/bacnet-js/client/commit/43fbd9228dbf03a72fb8b7d2d01aee3b1fe96734))
+
 ## [3.3.1](https://github.com/bacnet-js/client/compare/v3.3.0...v3.3.1) (2026-04-01)
 
 
